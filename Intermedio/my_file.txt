@@ -1,0 +1,4 @@
+Mi nombre es Alvero
+Mi apellido es Gomez
+22 años
+Y mi lenguaje preferido es Python
